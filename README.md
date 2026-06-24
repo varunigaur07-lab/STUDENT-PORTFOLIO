@@ -1,19 +1,19 @@
-Student Portfolio Website
+#Student Portfolio Website
 
-About Me:
+##About Me:
 
 Hi, I'm Varuni Gaur, a B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at NIMS University.
 
 I am passionate about technology, artificial intelligence, machine learning, cloud computing, and continuous learning. My goal is to build innovative solutions that create real-world impact and contribute to the future of intelligent systems.
 
-Education:
+##Education:
 
 Bachelor of Technology (B.Tech)
 Artificial Intelligence & Machine Learning (AIML)
 NIMS University
 2025 – 2029
 
-Skills:
+###Skills:
 
 * Python
 * C Programming
@@ -32,7 +32,7 @@ Certifications:
 * Microsoft Certified: Azure Fundamentals
 * NPTEL – Business and Sustainable Development
 
-Projects:
+##Projects:
 
 Student Portfolio Website
 
@@ -42,15 +42,15 @@ DSA Programs in C
 
 Implementation of data structures and algorithms concepts including arrays, searching, sorting, and problem-solving techniques.
 
-Future AI Projects:
+###Future AI Projects:
 
 Currently exploring AI and Machine Learning projects to expand my practical knowledge and technical expertise.
 
-Career Objective:
+##Career Objective:
 
 To become a skilled AI Engineer by combining strong technical knowledge, creativity, and continuous learning to solve real-world problems through technology.
 
-Contact:
+##Contact:
 
 📍 Jaipur, Rajasthan, India
 
